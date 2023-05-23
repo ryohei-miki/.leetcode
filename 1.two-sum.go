@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=13 lang=golang
+ * @lc app=leetcode id=1 lang=typescript
  *
- * [13] Roman to Integer
+ * [1] Two Sum
  */
 
 // @lc code=start
